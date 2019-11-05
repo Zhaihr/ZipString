@@ -1,0 +1,3 @@
+一次公司面试的上机题
+文件in.txt中有一行字符串，从in.txt中读取字符串如果字符串中有连续重复字符则将其压缩，例如aaabcccdef，压缩结果abcdef，并且将结果存放到out.txt文件中。
+压缩格式：aaabcccdef在文件out.txt中输出结果形式：3ab3cdef
